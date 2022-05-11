@@ -1,0 +1,3 @@
+Length of field is 12
+[0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0]
+A rabbit has to jump 3times to cross the field
